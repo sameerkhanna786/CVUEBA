@@ -1,5 +1,5 @@
 # Computer Vision User Entity Behavior Analytics
-Code repository for "Computer Vision User Entity Behavior Analytics"
+Code repository for [Computer Vision User Entity Behavior Analytics](https://arxiv.org/abs/2111.13176)
 
 ## Code Description
 
